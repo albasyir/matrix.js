@@ -1,0 +1,31 @@
+{
+  "name": "@albasyir-group/matrix",
+  "version": "0.0.0-cbt",
+  "description": "Operate matrix made easy",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albasyir/matrix.js.git"
+  },
+  "keywords": [
+    "ml",
+    "matrix",
+    "math",
+    "matlab",
+    "statistic"
+  ],
+  "author": "Abdul Aziz Al Basyir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albasyir/matrix.js/issues"
+  },
+  "homepage": "https://github.com/albasyir/matrix.js#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
